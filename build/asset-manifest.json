@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Frontend-SOLEC/static/css/main.135cbe51.css",
+    "main.js": "/Frontend-SOLEC/static/js/main.01ca0e60.js",
+    "static/js/787.3ea76cf8.chunk.js": "/Frontend-SOLEC/static/js/787.3ea76cf8.chunk.js",
+    "static/media/tresGrandFond.png": "/Frontend-SOLEC/static/media/tresGrandFond.b4b7dd536a4198de7021.png",
+    "static/media/logo.jpg": "/Frontend-SOLEC/static/media/logo.ce5ab6525c75a35060b1.jpg",
+    "static/media/photo pap's.jpg": "/Frontend-SOLEC/static/media/photo pap's.cdd8dfaff6d947d8e074.jpg",
+    "static/media/logo Solec.PNG": "/Frontend-SOLEC/static/media/logo Solec.f808207ca77a180c4513.PNG",
+    "static/media/contact-us.jpg": "/Frontend-SOLEC/static/media/contact-us.14dfb1fd0cfa52eb61d5.jpg",
+    "index.html": "/Frontend-SOLEC/index.html",
+    "main.135cbe51.css.map": "/Frontend-SOLEC/static/css/main.135cbe51.css.map",
+    "main.01ca0e60.js.map": "/Frontend-SOLEC/static/js/main.01ca0e60.js.map",
+    "787.3ea76cf8.chunk.js.map": "/Frontend-SOLEC/static/js/787.3ea76cf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135cbe51.css",
+    "static/js/main.01ca0e60.js"
+  ]
+}
